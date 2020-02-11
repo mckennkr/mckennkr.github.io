@@ -21,10 +21,10 @@
 title: Katherine McKenna, Ph.D.
 email: katherine.r.mckenna@vanderbilt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Historian, booklover, and upstart digital humanist querelling about the querelle des femmes 
+  Historian, booklover, and upstart digital humanist querelling about the querelle des femmes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @KRMcKenna17
+twitter_username: KRMcKenna17
 github_username:  mckennkr
 
 # Build settings
