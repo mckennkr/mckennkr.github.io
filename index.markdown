@@ -4,4 +4,9 @@
 
 layout: home
 ---
+Andrew. W. Mellon Postdoctoral Fellow in the Digital and Public Humanities
+Center for Digital Humanities
+Vanderbilt University
+
+
 <img height="450"  width="300" src="/Images/McKenna_HS1.png" alt="Professional headshot of me, taken before a brick wall and wearing a pink blouse.">
