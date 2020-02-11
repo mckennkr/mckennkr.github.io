@@ -5,7 +5,9 @@
 layout: home
 ---
 Andrew. W. Mellon Postdoctoral Fellow in the Digital and Public Humanities
+
 Center for Digital Humanities
+
 Vanderbilt University
 
 
