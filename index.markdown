@@ -4,4 +4,4 @@
 
 layout: home
 ---
-<img height="450"  width="300" src="/Images/McKenna_HS1" alt="Professional headshot of me, taken before a brick wall and wearing a pink blouse.">
+<img height="450"  width="300" src="/Images/McKenna_HS1,png" alt="Professional headshot of me, taken before a brick wall and wearing a pink blouse.">
