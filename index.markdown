@@ -6,9 +6,8 @@ layout: home
 ---
 **this page is under construction**
 
-Andrew. W. Mellon Postdoctoral Fellow in the Digital and Public Humanities
-
-Center for Digital Humanities
+<p style="margin-bottom:0px">Andrew. W. Mellon Postdoctoral Fellow in the Digital and Public Humanities</p>
+<p style="margin-bottom:0px">Center for Digital Humanities</p>
 
 Vanderbilt University
 
