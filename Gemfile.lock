@@ -1,6 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    academic (0.5.8)
+      jekyll-data (~> 1.0)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
@@ -29,6 +31,8 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
+    jekyll-data (1.1.0)
+      jekyll (>= 3.3, < 5.0.0)
     jekyll-feed (0.13.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (2.0.1)
@@ -73,6 +77,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  academic
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
