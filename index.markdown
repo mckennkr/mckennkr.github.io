@@ -6,7 +6,7 @@ layout: home
 ---
 <h2> this page is under construction </h2>
 
-<p style="margin-bottom:0px; font-size=20px">Andrew. W. Mellon Postdoctoral Fellow in the Digital and Public Humanities</p>
+<p style="margin-bottom:0px; font-size:20px">Andrew. W. Mellon Postdoctoral Fellow in the Digital and Public Humanities</p>
 <p style="margin-bottom:0px">Center for Digital Humanities</p>
 <p style="margin-bottom:0px">Vanderbilt University</p>
 
