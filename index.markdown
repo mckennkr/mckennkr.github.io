@@ -4,12 +4,11 @@
 
 layout: home
 ---
-**this page is under construction**
+## this page is under construction
 
-<p style="margin-bottom:0px">Andrew. W. Mellon Postdoctoral Fellow in the Digital and Public Humanities</p>
+<p style="margin-bottom:0px; font-size=20px">Andrew. W. Mellon Postdoctoral Fellow in the Digital and Public Humanities</p>
 <p style="margin-bottom:0px">Center for Digital Humanities</p>
-
-Vanderbilt University
+<p style="margin-bottom:0px">Vanderbilt University</p>
 
 
 <img height="450"  width="300" src="/Images/McKenna_HS1.png" alt="Professional headshot of me, taken before a brick wall and wearing a pink blouse.">
