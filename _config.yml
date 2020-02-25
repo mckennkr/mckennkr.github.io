@@ -28,7 +28,7 @@ twitter_username: KRMcKenna17
 github_username:  mckennkr
 
 # Build settings
-theme: academic
+theme: minima
 plugins:
   - jekyll-feed
 
